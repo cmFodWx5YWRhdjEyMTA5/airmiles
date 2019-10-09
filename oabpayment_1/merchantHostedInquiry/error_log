@@ -1,0 +1,6 @@
+[24-Feb-2019 06:18:36 UTC] PHP Warning:  include(../libfiles/iPayOabPipe.php): failed to open stream: No such file or directory in /home/fpsb1mnef1kq/public_html/oabpayment/merchantHostedInquiry/MerchantHostedCoreSubmit.php on line 5
+[24-Feb-2019 06:18:36 UTC] PHP Warning:  include(): Failed opening '../libfiles/iPayOabPipe.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fpsb1mnef1kq/public_html/oabpayment/merchantHostedInquiry/MerchantHostedCoreSubmit.php on line 5
+[24-Feb-2019 06:18:36 UTC] PHP Fatal error:  Uncaught Error: Class 'iPayOabPipe' not found in /home/fpsb1mnef1kq/public_html/oabpayment/merchantHostedInquiry/MerchantHostedCoreSubmit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fpsb1mnef1kq/public_html/oabpayment/merchantHostedInquiry/MerchantHostedCoreSubmit.php on line 17
