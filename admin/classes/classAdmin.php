@@ -1,4 +1,5 @@
 <?php
+/** connection master **/
 require_once 'classDatabase.php';
 class Admin {
     private $db;
